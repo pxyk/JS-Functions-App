@@ -9,4 +9,5 @@ function faktoriyel(sayi){
     return sonuc;
 }
 
+
 console.log(faktoriyel(sayi));
